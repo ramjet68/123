@@ -1,0 +1,1337 @@
+#EXTM3U
+#EXTINF:-1,BBC One
+http://149.202.74.95:25461/live/plex/plex/734.ts
+#EXTINF:-1,BBC One HD
+http://149.202.74.95:25461/live/plex/plex/733.ts
+#EXTINF:-1,BBC Two
+http://149.202.74.95:25461/live/plex/plex/730.ts
+#EXTINF:-1,BBC Two HD
+http://149.202.74.95:25461/live/plex/plex/729.ts
+#EXTINF:-1,ITV
+http://149.202.74.95:25461/live/plex/plex/610.ts
+#EXTINF:-1,ITV HD
+http://149.202.74.95:25461/live/plex/plex/603.ts
+#EXTINF:-1,ITV HD [Backup]
+http://149.202.74.95:25461/live/plex/plex/1174.ts
+#EXTINF:-1,Channel 4
+http://149.202.74.95:25461/live/plex/plex/695.ts
+#EXTINF:-1,Channel 4 HD
+http://149.202.74.95:25461/live/plex/plex/694.ts
+#EXTINF:-1,Channel 5
+http://149.202.74.95:25461/live/plex/plex/692.ts
+#EXTINF:-1,Channel 5 HD
+http://149.202.74.95:25461/live/plex/plex/690.ts
+#EXTINF:-1,Sky One
+http://149.202.74.95:25461/live/plex/plex/498.ts
+#EXTINF:-1,Sky One HD*
+http://149.202.74.95:25461/live/plex/plex/1338.ts
+#EXTINF:-1,Sky One HD
+http://149.202.74.95:25461/live/plex/plex/753.ts
+#EXTINF:-1,Sky Living
+http://149.202.74.95:25461/live/plex/plex/509.ts
+#EXTINF:-1,Sky Living HD
+http://149.202.74.95:25461/live/plex/plex/754.ts
+#EXTINF:-1,Sky Atlantic
+http://149.202.74.95:25461/live/plex/plex/523.ts
+#EXTINF:-1,Sky Atlantic HD
+http://149.202.74.95:25461/live/plex/plex/755.ts
+#EXTINF:-1,W
+http://149.202.74.95:25461/live/plex/plex/458.ts
+#EXTINF:-1,GOLD
+http://149.202.74.95:25461/live/plex/plex/628.ts
+#EXTINF:-1,Dave
+http://149.202.74.95:25461/live/plex/plex/668.ts
+#EXTINF:-1,Dave HD
+http://149.202.74.95:25461/live/plex/plex/757.ts
+#EXTINF:-1,Comedy Central
+http://149.202.74.95:25461/live/plex/plex/674.ts
+#EXTINF:-1,Comedy Central HD
+http://149.202.74.95:25461/live/plex/plex/758.ts
+#EXTINF:-1,Universal
+http://149.202.74.95:25461/live/plex/plex/466.ts
+#EXTINF:-1,Syfy
+http://149.202.74.95:25461/live/plex/plex/488.ts
+#EXTINF:-1,BBC Three HD
+http://149.202.74.95:25461/live/plex/plex/1139.ts
+#EXTINF:-1,BBC Four
+http://149.202.74.95:25461/live/plex/plex/736.ts
+#EXTINF:-1,BBC 4 HD
+http://149.202.74.95:25461/live/plex/plex/906.ts
+#EXTINF:-1,ITV2
+http://149.202.74.95:25461/live/plex/plex/601.ts
+#EXTINF:-1,ITV2 HD
+http://149.202.74.95:25461/live/plex/plex/600.ts
+#EXTINF:-1,ITV 3
+http://149.202.74.95:25461/live/plex/plex/609.ts
+#EXTINF:-1,ITV 3 HD
+http://149.202.74.95:25461/live/plex/plex/607.ts
+#EXTINF:-1,ITV4
+http://149.202.74.95:25461/live/plex/plex/598.ts
+#EXTINF:-1,ITV4 HD
+http://149.202.74.95:25461/live/plex/plex/597.ts
+#EXTINF:-1,Sky Arts
+http://149.202.74.95:25461/live/plex/plex/524.ts
+#EXTINF:-1,Sky Living 1
+http://149.202.74.95:25461/live/plex/plex/508.ts
+#EXTINF:-1,ITV Encore
+http://149.202.74.95:25461/live/plex/plex/606.ts
+#EXTINF:-1,ITV Encore HD
+http://149.202.74.95:25461/live/plex/plex/604.ts
+#EXTINF:-1,Fox
+http://149.202.74.95:25461/live/plex/plex/631.ts
+#EXTINF:-1,FOX HD
+http://149.202.74.95:25461/live/plex/plex/756.ts
+#EXTINF:-1,TLC
+http://149.202.74.95:25461/live/plex/plex/479.ts
+#EXTINF:-1,MTV
+http://149.202.74.95:25461/live/plex/plex/574.ts
+#EXTINF:-1,MTV HD
+http://149.202.74.95:25461/live/plex/plex/763.ts
+#EXTINF:-1,MTV HD*
+http://149.202.74.95:25461/live/plex/plex/1339.ts
+#EXTINF:-1,ComedyCent 1
+http://149.202.74.95:25461/live/plex/plex/675.ts
+#EXTINF:-1,Comedy Xtra
+http://149.202.74.95:25461/live/plex/plex/673.ts
+#EXTINF:-1,Sky Two
+http://149.202.74.95:25461/live/plex/plex/496.ts
+#EXTINF:-1,Sky One +1
+http://149.202.74.95:25461/live/plex/plex/497.ts
+#EXTINF:-1,ITV 1
+http://149.202.74.95:25461/live/plex/plex/602.ts
+#EXTINF:-1,alibi
+http://149.202.74.95:25461/live/plex/plex/744.ts
+#EXTINF:-1,Good Food
+http://149.202.74.95:25461/live/plex/plex/626.ts
+#EXTINF:-1,Good Food 1
+http://149.202.74.95:25461/live/plex/plex/625.ts
+#EXTINF:-1,S4C
+http://149.202.74.95:25461/live/plex/plex/529.ts
+#EXTINF:-1,S4C HD
+http://149.202.74.95:25461/live/plex/plex/528.ts
+#EXTINF:-1,Channel 4+1
+http://149.202.74.95:25461/live/plex/plex/693.ts
+#EXTINF:-1,E4
+http://149.202.74.95:25461/live/plex/plex/650.ts
+#EXTINF:-1,E4 1
+http://149.202.74.95:25461/live/plex/plex/649.ts
+#EXTINF:-1,More4
+http://149.202.74.95:25461/live/plex/plex/580.ts
+#EXTINF:-1,More4 1
+http://149.202.74.95:25461/live/plex/plex/579.ts
+#EXTINF:-1,4seven
+http://149.202.74.95:25461/live/plex/plex/749.ts
+#EXTINF:-1,QUEST
+http://149.202.74.95:25461/live/plex/plex/542.ts
+#EXTINF:-1,Challenge
+http://149.202.74.95:25461/live/plex/plex/697.ts
+#EXTINF:-1,CBS Reality
+http://149.202.74.95:25461/live/plex/plex/700.ts
+#EXTINF:-1,CBS Action
+http://149.202.74.95:25461/live/plex/plex/702.ts
+#EXTINF:-1,CBS Drama
+http://149.202.74.95:25461/live/plex/plex/701.ts
+#EXTINF:-1,Universal 1
+http://149.202.74.95:25461/live/plex/plex/465.ts
+#EXTINF:-1,E!
+http://149.202.74.95:25461/live/plex/plex/652.ts
+#EXTINF:-1,Pick
+http://149.202.74.95:25461/live/plex/plex/550.ts
+#EXTINF:-1,TLC 1
+http://149.202.74.95:25461/live/plex/plex/478.ts
+#EXTINF:-1,Really
+http://149.202.74.95:25461/live/plex/plex/536.ts
+#EXTINF:-1,Lifetime
+http://149.202.74.95:25461/live/plex/plex/588.ts
+#EXTINF:-1,Drama
+http://149.202.74.95:25461/live/plex/plex/653.ts
+#EXTINF:-1,ComedyXtra 1
+http://149.202.74.95:25461/live/plex/plex/672.ts
+#EXTINF:-1,Spike
+http://149.202.74.95:25461/live/plex/plex/492.ts
+#EXTINF:-1,RTE One
+http://149.202.74.95:25461/live/plex/plex/532.ts
+#EXTINF:-1,RTE2
+http://149.202.74.95:25461/live/plex/plex/530.ts
+#EXTINF:-1,Pick 1
+http://149.202.74.95:25461/live/plex/plex/549.ts
+#EXTINF:-1,GOLD 1
+http://149.202.74.95:25461/live/plex/plex/627.ts
+#EXTINF:-1,DMAX
+http://149.202.74.95:25461/live/plex/plex/1143.ts
+#EXTINF:-1,Sky Atlantic 1
+http://149.202.74.95:25461/live/plex/plex/522.ts
+#EXTINF:-1,Real Lives
+http://149.202.74.95:25461/live/plex/plex/538.ts
+#EXTINF:-1,Real Lives 1
+http://149.202.74.95:25461/live/plex/plex/537.ts
+#EXTINF:-1,5 USA
+http://149.202.74.95:25461/live/plex/plex/748.ts
+#EXTINF:-1,5STAR
+http://149.202.74.95:25461/live/plex/plex/746.ts
+#EXTINF:-1,Channel 5 1
+http://149.202.74.95:25461/live/plex/plex/689.ts
+#EXTINF:-1,ITVBe
+http://149.202.74.95:25461/live/plex/plex/595.ts
+#EXTINF:-1,ITV be HD
+http://149.202.74.95:25461/live/plex/plex/907.ts
+#EXTINF:-1,ITV2 +1
+http://149.202.74.95:25461/live/plex/plex/599.ts
+#EXTINF:-1,True Entertainment
+http://149.202.74.95:25461/live/plex/plex/469.ts
+#EXTINF:-1,True Crime
+http://149.202.74.95:25461/live/plex/plex/472.ts
+#EXTINF:-1,True Crime 1
+http://149.202.74.95:25461/live/plex/plex/471.ts
+#EXTINF:-1,BET:BlackEntTv
+http://149.202.74.95:25461/live/plex/plex/727.ts
+#EXTINF:-1,5STAR 1
+http://149.202.74.95:25461/live/plex/plex/745.ts
+#EXTINF:-1,Irish TV
+http://149.202.74.95:25461/live/plex/plex/611.ts
+#EXTINF:-1,ITV 3  1
+http://149.202.74.95:25461/live/plex/plex/608.ts
+#EXTINF:-1,Syfy 1
+http://149.202.74.95:25461/live/plex/plex/487.ts
+#EXTINF:-1,QUEST 1
+http://149.202.74.95:25461/live/plex/plex/541.ts
+#EXTINF:-1,Home
+http://149.202.74.95:25461/live/plex/plex/621.ts
+#EXTINF:-1,Lifetime 1
+http://149.202.74.95:25461/live/plex/plex/587.ts
+#EXTINF:-1,tru TV
+http://149.202.74.95:25461/live/plex/plex/474.ts
+#EXTINF:-1,TLC 2
+http://149.202.74.95:25461/live/plex/plex/477.ts
+#EXTINF:-1,ITV4 1
+http://149.202.74.95:25461/live/plex/plex/596.ts
+#EXTINF:-1,ITVBe 1
+http://149.202.74.95:25461/live/plex/plex/594.ts
+#EXTINF:-1,ITV Encore  1
+http://149.202.74.95:25461/live/plex/plex/605.ts
+#EXTINF:-1,Showcase
+http://149.202.74.95:25461/live/plex/plex/525.ts
+#EXTINF:-1,Discovery Showcase HD.
+http://149.202.74.95:25461/live/plex/plex/762.ts
+#EXTINF:-1,W 1
+http://149.202.74.95:25461/live/plex/plex/457.ts
+#EXTINF:-1,Dave ja vu
+http://149.202.74.95:25461/live/plex/plex/667.ts
+#EXTINF:-1,5 USA 1
+http://149.202.74.95:25461/live/plex/plex/747.ts
+#EXTINF:-1,alibi 1
+http://149.202.74.95:25461/live/plex/plex/743.ts
+#EXTINF:-1,E! 1
+http://149.202.74.95:25461/live/plex/plex/651.ts
+#EXTINF:-1,Home & Leisure
+http://149.202.74.95:25461/live/plex/plex/619.ts
+#EXTINF:-1,Home & Health
+http://149.202.74.95:25461/live/plex/plex/620.ts
+#EXTINF:-1,Home 1
+http://149.202.74.95:25461/live/plex/plex/617.ts
+#EXTINF:-1,Food Network
+http://149.202.74.95:25461/live/plex/plex/635.ts
+#EXTINF:-1,Food Netwrk 1
+http://149.202.74.95:25461/live/plex/plex/634.ts
+#EXTINF:-1,Horse & Country
+http://149.202.74.95:25461/live/plex/plex/614.ts
+#EXTINF:-1,Made In Leeds
+http://149.202.74.95:25461/live/plex/plex/583.ts
+#EXTINF:-1,Made In Cardiff
+http://149.202.74.95:25461/live/plex/plex/584.ts
+#EXTINF:-1,Made In Bristol
+http://149.202.74.95:25461/live/plex/plex/585.ts
+#EXTINF:-1,Made In Tn&Wr
+http://149.202.74.95:25461/live/plex/plex/582.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://149.202.74.95:25461/live/plex/plex/512.ts
+#EXTINF:-1,Sky Cinema Premiere +1
+http://149.202.74.95:25461/live/plex/plex/513.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://149.202.74.95:25461/live/plex/plex/768.ts
+#EXTINF:-1,Sky Cinema Premiere HD*
+http://149.202.74.95:25461/live/plex/plex/1332.ts
+#EXTINF:-1,Sky Cinema Hits
+http://149.202.74.95:25461/live/plex/plex/514.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://149.202.74.95:25461/live/plex/plex/1022.ts
+#EXTINF:-1,Sky Cinema Hits HD*
+http://149.202.74.95:25461/live/plex/plex/1333.ts
+#EXTINF:-1,Sky Cinema Superhero
+http://149.202.74.95:25461/live/plex/plex/517.ts
+#EXTINF:-1,Sky Cinema Superhero HD
+http://149.202.74.95:25461/live/plex/plex/771.ts
+#EXTINF:-1,Sky Cinema Superhero HD*
+http://149.202.74.95:25461/live/plex/plex/1224.ts
+#EXTINF:-1,Sky Cinema Disney
+http://149.202.74.95:25461/live/plex/plex/1023.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://149.202.74.95:25461/live/plex/plex/511.ts
+#EXTINF:-1,Sky Cinema Disney HD*
+http://149.202.74.95:25461/live/plex/plex/1223.ts
+#EXTINF:-1,Sky Cinema Family
+http://149.202.74.95:25461/live/plex/plex/516.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://149.202.74.95:25461/live/plex/plex/770.ts
+#EXTINF:-1,Sky Cinema Family HD*
+http://149.202.74.95:25461/live/plex/plex/1334.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://149.202.74.95:25461/live/plex/plex/521.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+http://149.202.74.95:25461/live/plex/plex/769.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD*
+http://149.202.74.95:25461/live/plex/plex/1337.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://149.202.74.95:25461/live/plex/plex/519.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://149.202.74.95:25461/live/plex/plex/772.ts
+#EXTINF:-1,Sky Cinema Comedy HD*
+http://149.202.74.95:25461/live/plex/plex/1336.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://149.202.74.95:25461/live/plex/plex/518.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://149.202.74.95:25461/live/plex/plex/776.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD*
+http://149.202.74.95:25461/live/plex/plex/1335.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://149.202.74.95:25461/live/plex/plex/915.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://149.202.74.95:25461/live/plex/plex/775.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+http://149.202.74.95:25461/live/plex/plex/1138.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://149.202.74.95:25461/live/plex/plex/773.ts
+#EXTINF:-1,Sky Cinema Sci FI & Horror HD*
+http://149.202.74.95:25461/live/plex/plex/1331.ts
+#EXTINF:-1,Sky Cinema Select
+http://149.202.74.95:25461/live/plex/plex/510.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://149.202.74.95:25461/live/plex/plex/777.ts
+#EXTINF:-1,Sky Cinema Select HD*
+http://149.202.74.95:25461/live/plex/plex/1225.ts
+#EXTINF:-1,Sky Cinema Greats
+http://149.202.74.95:25461/live/plex/plex/515.ts
+#EXTINF:-1,Sky Cinema Greats HD
+http://149.202.74.95:25461/live/plex/plex/774.ts
+#EXTINF:-1,Sky Cinema Showcase HD
+http://149.202.74.95:25461/live/plex/plex/778.ts
+#EXTINF:-1,Film4
+http://149.202.74.95:25461/live/plex/plex/639.ts
+#EXTINF:-1,Film4 1
+http://149.202.74.95:25461/live/plex/plex/638.ts
+#EXTINF:-1,TCM
+http://149.202.74.95:25461/live/plex/plex/486.ts
+#EXTINF:-1,TCM HD
+http://149.202.74.95:25461/live/plex/plex/759.ts
+#EXTINF:-1,TCM 1
+http://149.202.74.95:25461/live/plex/plex/485.ts
+#EXTINF:-1,horror channel
+http://149.202.74.95:25461/live/plex/plex/615.ts
+#EXTINF:-1,horror ch 1
+http://149.202.74.95:25461/live/plex/plex/616.ts
+#EXTINF:-1,True Movies 1
+http://149.202.74.95:25461/live/plex/plex/467.ts
+#EXTINF:-1,True Movies 2
+http://149.202.74.95:25461/live/plex/plex/468.ts
+#EXTINF:-1,Movies 4 Men
+http://149.202.74.95:25461/live/plex/plex/575.ts
+#EXTINF:-1,mov4men 1
+http://149.202.74.95:25461/live/plex/plex/577.ts
+#EXTINF:-1,Movies 24
+http://149.202.74.95:25461/live/plex/plex/576.ts
+#EXTINF:-1,MTV Music
+http://149.202.74.95:25461/live/plex/plex/568.ts
+#EXTINF:-1,MTV BASE
+http://149.202.74.95:25461/live/plex/plex/572.ts
+#EXTINF:-1,MTV Base HD.
+http://149.202.74.95:25461/live/plex/plex/767.ts
+#EXTINF:-1,MTV Hits
+http://149.202.74.95:25461/live/plex/plex/569.ts
+#EXTINF:-1,MTV Hits HD
+http://149.202.74.95:25461/live/plex/plex/1031.ts
+#EXTINF:-1,VIVA
+http://149.202.74.95:25461/live/plex/plex/459.ts
+#EXTINF:-1,MTV DANCE
+http://149.202.74.95:25461/live/plex/plex/570.ts
+#EXTINF:-1,MTV Dance HD
+http://149.202.74.95:25461/live/plex/plex/766.ts
+#EXTINF:-1,MTV ROCKS
+http://149.202.74.95:25461/live/plex/plex/566.ts
+#EXTINF:-1,MTV Rocks HD
+http://149.202.74.95:25461/live/plex/plex/765.ts
+#EXTINF:-1,VH1
+http://149.202.74.95:25461/live/plex/plex/461.ts
+#EXTINF:-1,MTV Music 1
+http://149.202.74.95:25461/live/plex/plex/567.ts
+#EXTINF:-1,Box Upfront
+http://149.202.74.95:25461/live/plex/plex/720.ts
+#EXTINF:-1,MTV 1
+http://149.202.74.95:25461/live/plex/plex/565.ts
+#EXTINF:-1,MTV 90s
+http://149.202.74.95:25461/live/plex/plex/573.ts
+#EXTINF:-1,MTV CLASSIC
+http://149.202.74.95:25461/live/plex/plex/571.ts
+#EXTINF:-1,MTV Live HD
+http://149.202.74.95:25461/live/plex/plex/764.ts
+#EXTINF:-1,The Box
+http://149.202.74.95:25461/live/plex/plex/484.ts
+#EXTINF:-1,Box Hits
+http://149.202.74.95:25461/live/plex/plex/721.ts
+#EXTINF:-1,4Music
+http://149.202.74.95:25461/live/plex/plex/750.ts
+#EXTINF:-1,KISS
+http://149.202.74.95:25461/live/plex/plex/592.ts
+#EXTINF:-1,Magic
+http://149.202.74.95:25461/live/plex/plex/581.ts
+#EXTINF:-1,Chart Show TV
+http://149.202.74.95:25461/live/plex/plex/686.ts
+#EXTINF:-1,The Vault
+http://149.202.74.95:25461/live/plex/plex/483.ts
+#EXTINF:-1,Scuzz
+http://149.202.74.95:25461/live/plex/plex/527.ts
+#EXTINF:-1,Kerrang!
+http://149.202.74.95:25461/live/plex/plex/593.ts
+#EXTINF:-1,Vintage TV
+http://149.202.74.95:25461/live/plex/plex/460.ts
+#EXTINF:-1,Starz TV
+http://149.202.74.95:25461/live/plex/plex/491.ts
+#EXTINF:-1,Chartshw Dnce
+http://149.202.74.95:25461/live/plex/plex/685.ts
+#EXTINF:-1,Flava
+http://149.202.74.95:25461/live/plex/plex/637.ts
+#EXTINF:-1,NOW Music
+http://149.202.74.95:25461/live/plex/plex/551.ts
+#EXTINF:-1,Channel AKA
+http://149.202.74.95:25461/live/plex/plex/688.ts
+#EXTINF:-1,Heart TV UK
+http://149.202.74.95:25461/live/plex/plex/1144.ts
+#EXTINF:-1,Sky Sports News HQ
+http://149.202.74.95:25461/live/plex/plex/499.ts
+#EXTINF:-1,Sky Sports News HQ HD
+http://149.202.74.95:25461/live/plex/plex/783.ts
+#EXTINF:-1,Sky Sports News HQ HD*
+http://149.202.74.95:25461/live/plex/plex/1218.ts
+#EXTINF:-1,Sky Sports 1
+http://149.202.74.95:25461/live/plex/plex/506.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://149.202.74.95:25461/live/plex/plex/916.ts
+#EXTINF:-1,Sky Sports 1 HD*
+http://149.202.74.95:25461/live/plex/plex/1213.ts
+#EXTINF:-1,Sky Sports 2
+http://149.202.74.95:25461/live/plex/plex/505.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://149.202.74.95:25461/live/plex/plex/785.ts
+#EXTINF:-1,Sky Sports 2 HD*
+http://149.202.74.95:25461/live/plex/plex/1214.ts
+#EXTINF:-1,Sky Sports 3
+http://149.202.74.95:25461/live/plex/plex/504.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://149.202.74.95:25461/live/plex/plex/801.ts
+#EXTINF:-1,Sky Sports 3 HD*
+http://149.202.74.95:25461/live/plex/plex/1215.ts
+#EXTINF:-1,Sky Sports 4
+http://149.202.74.95:25461/live/plex/plex/503.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://149.202.74.95:25461/live/plex/plex/787.ts
+#EXTINF:-1,Sky Sports 4 HD*
+http://149.202.74.95:25461/live/plex/plex/1216.ts
+#EXTINF:-1,Sky Sports 5
+http://149.202.74.95:25461/live/plex/plex/502.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://149.202.74.95:25461/live/plex/plex/788.ts
+#EXTINF:-1,Sky Sports 5 HD*
+http://149.202.74.95:25461/live/plex/plex/1217.ts
+#EXTINF:-1,Sky Sports 5 Ireland
+http://149.202.74.95:25461/live/plex/plex/1169.ts
+#EXTINF:-1,Sky Sports Mix
+http://149.202.74.95:25461/live/plex/plex/500.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://149.202.74.95:25461/live/plex/plex/781.ts
+#EXTINF:-1,Sky Sports F1
+http://149.202.74.95:25461/live/plex/plex/501.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://149.202.74.95:25461/live/plex/plex/789.ts
+#EXTINF:-1,Sky Sports F1 HD*
+http://149.202.74.95:25461/live/plex/plex/1219.ts
+#EXTINF:-1,Sky Sports Darts HD*
+http://149.202.74.95:25461/live/plex/plex/786.ts
+#EXTINF:-1,BT Sport 1
+http://149.202.74.95:25461/live/plex/plex/718.ts
+#EXTINF:-1,BT Sport 1 HD
+http://149.202.74.95:25461/live/plex/plex/790.ts
+#EXTINF:-1,BT Sport 1 HD*
+http://149.202.74.95:25461/live/plex/plex/1220.ts
+#EXTINF:-1,BT Sport 2
+http://149.202.74.95:25461/live/plex/plex/717.ts
+#EXTINF:-1,BT Sport 2 HD
+http://149.202.74.95:25461/live/plex/plex/791.ts
+#EXTINF:-1,BT Sport 2 HD*
+http://149.202.74.95:25461/live/plex/plex/1221.ts
+#EXTINF:-1,BT Sport 3
+http://149.202.74.95:25461/live/plex/plex/716.ts
+#EXTINF:-1,BT Sport 3 HD
+http://149.202.74.95:25461/live/plex/plex/792.ts
+#EXTINF:-1,BT Sport 3 HD*
+http://149.202.74.95:25461/live/plex/plex/1222.ts
+#EXTINF:-1,BT Sport ESPN
+http://149.202.74.95:25461/live/plex/plex/708.ts
+#EXTINF:-1,BT Sports ESPN HD
+http://149.202.74.95:25461/live/plex/plex/793.ts
+#EXTINF:-1,British Eurosport
+http://149.202.74.95:25461/live/plex/plex/642.ts
+#EXTINF:-1,British Eurosport HD
+http://149.202.74.95:25461/live/plex/plex/795.ts
+#EXTINF:-1,British Eurosport 2
+http://149.202.74.95:25461/live/plex/plex/641.ts
+#EXTINF:-1,British Eurosport 2 HD
+http://149.202.74.95:25461/live/plex/plex/794.ts
+#EXTINF:-1,BT Sport Extra 1
+http://149.202.74.95:25461/live/plex/plex/715.ts
+#EXTINF:-1,BT Sport Extra 2
+http://149.202.74.95:25461/live/plex/plex/714.ts
+#EXTINF:-1,BT Sport Extra 3
+http://149.202.74.95:25461/live/plex/plex/713.ts
+#EXTINF:-1,BT Sport Extra 4
+http://149.202.74.95:25461/live/plex/plex/712.ts
+#EXTINF:-1,BT Sport Extra 5
+http://149.202.74.95:25461/live/plex/plex/711.ts
+#EXTINF:-1,BT Sport Extra 6
+http://149.202.74.95:25461/live/plex/plex/710.ts
+#EXTINF:-1,BT Sport Mosaic 2
+http://149.202.74.95:25461/live/plex/plex/709.ts
+#EXTINF:-1,MUTV
+http://149.202.74.95:25461/live/plex/plex/564.ts
+#EXTINF:-1,MUTV HD
+http://149.202.74.95:25461/live/plex/plex/563.ts
+#EXTINF:-1,Chelsea TV
+http://149.202.74.95:25461/live/plex/plex/683.ts
+#EXTINF:-1,eir Sport 1
+http://149.202.74.95:25461/live/plex/plex/646.ts
+#EXTINF:-1,eir Sport 2
+http://149.202.74.95:25461/live/plex/plex/645.ts
+#EXTINF:-1,eir Sport 2 HD
+http://149.202.74.95:25461/live/plex/plex/644.ts
+#EXTINF:-1,Premier HD
+http://149.202.74.95:25461/live/plex/plex/545.ts
+#EXTINF:-1,LFCTV
+http://149.202.74.95:25461/live/plex/plex/589.ts
+#EXTINF:-1,At The Races
+http://149.202.74.95:25461/live/plex/plex/739.ts
+#EXTINF:-1,Racing UK
+http://149.202.74.95:25461/live/plex/plex/540.ts
+#EXTINF:-1,Racing UK HD
+http://149.202.74.95:25461/live/plex/plex/539.ts
+#EXTINF:-1,BoxNation SD
+http://149.202.74.95:25461/live/plex/plex/954.ts
+#EXTINF:-1,Boxnation HD*
+http://149.202.74.95:25461/live/plex/plex/797.ts
+#EXTINF:-1,MOTORS TV UK
+http://149.202.74.95:25461/live/plex/plex/578.ts
+#EXTINF:-1,Premier Sports
+http://149.202.74.95:25461/live/plex/plex/544.ts
+#EXTINF:-1,Premier Sports HD
+http://149.202.74.95:25461/live/plex/plex/543.ts
+#EXTINF:-1,Bike
+http://149.202.74.95:25461/live/plex/plex/726.ts
+#EXTINF:-1,GINXeSportsTV
+http://149.202.74.95:25461/live/plex/plex/629.ts
+#EXTINF:-1,Sky Sports Box Office SD
+http://149.202.74.95:25461/live/plex/plex/911.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://149.202.74.95:25461/live/plex/plex/780.ts
+#EXTINF:-1,Sky News
+http://149.202.74.95:25461/live/plex/plex/507.ts
+#EXTINF:-1,Sky News HD
+http://149.202.74.95:25461/live/plex/plex/779.ts
+#EXTINF:-1,Bloomberg
+http://149.202.74.95:25461/live/plex/plex/724.ts
+#EXTINF:-1,BBC News 24
+http://149.202.74.95:25461/live/plex/plex/735.ts
+#EXTINF:-1,CNBC
+http://149.202.74.95:25461/live/plex/plex/900.ts
+#EXTINF:-1,CNN
+http://149.202.74.95:25461/live/plex/plex/677.ts
+#EXTINF:-1,CNN HD
+http://149.202.74.95:25461/live/plex/plex/676.ts
+#EXTINF:-1,EURONEWS
+http://149.202.74.95:25461/live/plex/plex/643.ts
+#EXTINF:-1,FOX News
+http://149.202.74.95:25461/live/plex/plex/632.ts
+#EXTINF:-1,CCTV News
+http://149.202.74.95:25461/live/plex/plex/698.ts
+#EXTINF:-1,Discovery
+http://149.202.74.95:25461/live/plex/plex/664.ts
+#EXTINF:-1,Discovery HD*
+http://149.202.74.95:25461/live/plex/plex/760.ts
+#EXTINF:-1,Discovery 1
+http://149.202.74.95:25461/live/plex/plex/659.ts
+#EXTINF:-1,ID
+http://149.202.74.95:25461/live/plex/plex/613.ts
+#EXTINF:-1,Animal Planet
+http://149.202.74.95:25461/live/plex/plex/741.ts
+#EXTINF:-1,Discovery Turbo
+http://149.202.74.95:25461/live/plex/plex/660.ts
+#EXTINF:-1,Discovery Science
+http://149.202.74.95:25461/live/plex/plex/662.ts
+#EXTINF:-1,Nat Geo
+http://149.202.74.95:25461/live/plex/plex/562.ts
+#EXTINF:-1,Nat Geo 1hr
+http://149.202.74.95:25461/live/plex/plex/560.ts
+#EXTINF:-1,Nat Geo Wild
+http://149.202.74.95:25461/live/plex/plex/561.ts
+#EXTINF:-1,Nat Geo Wild HD.
+http://149.202.74.95:25461/live/plex/plex/761.ts
+#EXTINF:-1,History
+http://149.202.74.95:25461/live/plex/plex/623.ts
+#EXTINF:-1,History 1 hour
+http://149.202.74.95:25461/live/plex/plex/622.ts
+#EXTINF:-1,Eden
+http://149.202.74.95:25461/live/plex/plex/648.ts
+#EXTINF:-1,Eden 1
+http://149.202.74.95:25461/live/plex/plex/647.ts
+#EXTINF:-1,Discovery History
+http://149.202.74.95:25461/live/plex/plex/663.ts
+#EXTINF:-1,Disc.History 1
+http://149.202.74.95:25461/live/plex/plex/666.ts
+#EXTINF:-1,YESTERDAY
+http://149.202.74.95:25461/live/plex/plex/456.ts
+#EXTINF:-1,YESTERDAY 1
+http://149.202.74.95:25461/live/plex/plex/455.ts
+#EXTINF:-1,Crime & Investigation
+http://149.202.74.95:25461/live/plex/plex/671.ts
+#EXTINF:-1,Crime Inv  1
+http://149.202.74.95:25461/live/plex/plex/670.ts
+#EXTINF:-1,Blaze
+http://149.202.74.95:25461/live/plex/plex/725.ts
+#EXTINF:-1,BBC World News
+http://149.202.74.95:25461/live/plex/plex/1140.ts
+#EXTINF:-1,Boomerang
+http://149.202.74.95:25461/live/plex/plex/723.ts
+#EXTINF:-1,Cartoon Netwrk
+http://149.202.74.95:25461/live/plex/plex/706.ts
+#EXTINF:-1,Nickelodeon
+http://149.202.74.95:25461/live/plex/plex/555.ts
+#EXTINF:-1,Nickelodeon 1
+http://149.202.74.95:25461/live/plex/plex/554.ts
+#EXTINF:-1,Nicktoons
+http://149.202.74.95:25461/live/plex/plex/553.ts
+#EXTINF:-1,Disney XD
+http://149.202.74.95:25461/live/plex/plex/655.ts
+#EXTINF:-1,Disney XD 1
+http://149.202.74.95:25461/live/plex/plex/654.ts
+#EXTINF:-1,Disney Channel
+http://149.202.74.95:25461/live/plex/plex/658.ts
+#EXTINF:-1,Disney Chnl 1
+http://149.202.74.95:25461/live/plex/plex/657.ts
+#EXTINF:-1,Disney Junior
+http://149.202.74.95:25461/live/plex/plex/656.ts
+#EXTINF:-1,CBBC HD
+http://149.202.74.95:25461/live/plex/plex/704.ts
+#EXTINF:-1,CBeebies
+http://149.202.74.95:25461/live/plex/plex/703.ts
+#EXTINF:-1,Nick Jr.
+http://149.202.74.95:25461/live/plex/plex/556.ts
+#EXTINF:-1,Tiny Pop
+http://149.202.74.95:25461/live/plex/plex/481.ts
+#EXTINF:-1,POP
+http://149.202.74.95:25461/live/plex/plex/547.ts
+#EXTINF:-1,Boomerang 1
+http://149.202.74.95:25461/live/plex/plex/722.ts
+#EXTINF:-1,Cartoonito
+http://149.202.74.95:25461/live/plex/plex/705.ts
+#EXTINF:-1,Nick Jr Too
+http://149.202.74.95:25461/live/plex/plex/558.ts
+#EXTINF:-1,CITV
+http://149.202.74.95:25461/live/plex/plex/680.ts
+#EXTINF:-1,BabyTV
+http://149.202.74.95:25461/live/plex/plex/738.ts
+#EXTINF:-1,POP 1
+http://149.202.74.95:25461/live/plex/plex/546.ts
+#EXTINF:-1,Kix
+http://149.202.74.95:25461/live/plex/plex/591.ts
+#EXTINF:-1,Kix 1
+http://149.202.74.95:25461/live/plex/plex/590.ts
+#EXTINF:-1,Nick Jr 1
+http://149.202.74.95:25461/live/plex/plex/557.ts
+#EXTINF:-1,Arena Sport 1
+http://149.202.74.95:25461/live/plex/plex/869.ts
+#EXTINF:-1,Arena Sport 1 HD
+http://149.202.74.95:25461/live/plex/plex/1018.ts
+#EXTINF:-1,Arena Sport 2
+http://149.202.74.95:25461/live/plex/plex/870.ts
+#EXTINF:-1,Arena Sport 2 HD
+http://149.202.74.95:25461/live/plex/plex/1019.ts
+#EXTINF:-1,Arena Sport 3
+http://149.202.74.95:25461/live/plex/plex/871.ts
+#EXTINF:-1,Arena Sport 3 HD
+http://149.202.74.95:25461/live/plex/plex/1020.ts
+#EXTINF:-1,Arena Sport 4
+http://149.202.74.95:25461/live/plex/plex/872.ts
+#EXTINF:-1,Arena Sport 4 HD
+http://149.202.74.95:25461/live/plex/plex/1021.ts
+#EXTINF:-1,Arena Sport 5
+http://149.202.74.95:25461/live/plex/plex/873.ts
+#EXTINF:-1,Astro Supersports 1
+http://149.202.74.95:25461/live/plex/plex/874.ts
+#EXTINF:-1,Astro Supersports 2
+http://149.202.74.95:25461/live/plex/plex/875.ts
+#EXTINF:-1,Astro Supersports 3
+http://149.202.74.95:25461/live/plex/plex/876.ts
+#EXTINF:-1,Astro Supersports 4
+http://149.202.74.95:25461/live/plex/plex/877.ts
+#EXTINF:-1,bein france 1
+http://149.202.74.95:25461/live/plex/plex/850.ts
+#EXTINF:-1,bein france 3
+http://149.202.74.95:25461/live/plex/plex/852.ts
+#EXTINF:-1,beIN Sports USA HD
+http://149.202.74.95:25461/live/plex/plex/835.ts
+#EXTINF:-1,beINSport 1 HD
+http://149.202.74.95:25461/live/plex/plex/836.ts
+#EXTINF:-1,beINSport 2 HD
+http://149.202.74.95:25461/live/plex/plex/837.ts
+#EXTINF:-1,beINSport 3 HD
+http://149.202.74.95:25461/live/plex/plex/838.ts
+#EXTINF:-1,beINSport 4 HD
+http://149.202.74.95:25461/live/plex/plex/839.ts
+#EXTINF:-1,beINSport 5 HD
+http://149.202.74.95:25461/live/plex/plex/840.ts
+#EXTINF:-1,beINSport 6 HD
+http://149.202.74.95:25461/live/plex/plex/841.ts
+#EXTINF:-1,beINSport 7 HD
+http://149.202.74.95:25461/live/plex/plex/842.ts
+#EXTINF:-1,beINSport 8 HD
+http://149.202.74.95:25461/live/plex/plex/843.ts
+#EXTINF:-1,beINSport 9 HD
+http://149.202.74.95:25461/live/plex/plex/844.ts
+#EXTINF:-1,beINSport 10 HD
+http://149.202.74.95:25461/live/plex/plex/845.ts
+#EXTINF:-1,beINSport 11 HD
+http://149.202.74.95:25461/live/plex/plex/846.ts
+#EXTINF:-1,beINSport 12 HD
+http://149.202.74.95:25461/live/plex/plex/847.ts
+#EXTINF:-1,beINSport 13 HD
+http://149.202.74.95:25461/live/plex/plex/848.ts
+#EXTINF:-1,beINSport 14 HD
+http://149.202.74.95:25461/live/plex/plex/849.ts
+#EXTINF:-1,AR : BEIN SPORTS 13 HD
+http://149.202.74.95:25461/live/plex/plex/1325.ts
+#EXTINF:-1,AR : BEIN SPORTS 12 HD
+http://149.202.74.95:25461/live/plex/plex/1326.ts
+#EXTINF:-1,AR : BEIN SPORTS 11 HD
+http://149.202.74.95:25461/live/plex/plex/1327.ts
+#EXTINF:-1,AR : BEIN SPORTS 10 HD
+http://149.202.74.95:25461/live/plex/plex/1328.ts
+#EXTINF:-1,AR : BEIN SPORTS 9 HD
+http://149.202.74.95:25461/live/plex/plex/1317.ts
+#EXTINF:-1,AR : BEIN SPORTS 8 HD
+http://149.202.74.95:25461/live/plex/plex/1318.ts
+#EXTINF:-1,AR : BEIN SPORTS 7 HD
+http://149.202.74.95:25461/live/plex/plex/1319.ts
+#EXTINF:-1,AR : BEIN SPORTS 6 HD
+http://149.202.74.95:25461/live/plex/plex/1320.ts
+#EXTINF:-1,AR : BEIN SPORTS 5 HD
+http://149.202.74.95:25461/live/plex/plex/1321.ts
+#EXTINF:-1,AR : BEIN SPORTS 4 HD
+http://149.202.74.95:25461/live/plex/plex/1322.ts
+#EXTINF:-1,AR : BEIN SPORTS 3 HD
+http://149.202.74.95:25461/live/plex/plex/1323.ts
+#EXTINF:-1,AR : BEIN SPORTS 2 HD
+http://149.202.74.95:25461/live/plex/plex/1324.ts
+#EXTINF:-1,AR : BEIN SPORTS 1 HD
+http://149.202.74.95:25461/live/plex/plex/1329.ts
+#EXTINF:-1,AR : BEIN SPORTS NEWS
+http://149.202.74.95:25461/live/plex/plex/1316.ts
+#EXTINF:-1,C Golf
+http://149.202.74.95:25461/live/plex/plex/905.ts
+#EXTINF:-1,C MORE FOTBALL
+http://149.202.74.95:25461/live/plex/plex/893.ts
+#EXTINF:-1,C MORE LIVE HD
+http://149.202.74.95:25461/live/plex/plex/892.ts
+#EXTINF:-1,C MORE SPORT HD
+http://149.202.74.95:25461/live/plex/plex/891.ts
+#EXTINF:-1,Canal  Golf
+http://149.202.74.95:25461/live/plex/plex/904.ts
+#EXTINF:-1,DIGI SPORT 1
+http://149.202.74.95:25461/live/plex/plex/878.ts
+#EXTINF:-1,DIGI SPORT 2
+http://149.202.74.95:25461/live/plex/plex/879.ts
+#EXTINF:-1,DIGI SPORT 3
+http://149.202.74.95:25461/live/plex/plex/880.ts
+#EXTINF:-1,FightBox HD
+http://149.202.74.95:25461/live/plex/plex/1149.ts
+#EXTINF:-1,Fox Sport 1 Malaysia
+http://149.202.74.95:25461/live/plex/plex/828.ts
+#EXTINF:-1,Fox Sport 2 Malaysia
+http://149.202.74.95:25461/live/plex/plex/829.ts
+#EXTINF:-1,FOX SPORTS 1 HD
+http://149.202.74.95:25461/live/plex/plex/824.ts
+#EXTINF:-1,FOX SPORTS 1 Thailand
+http://149.202.74.95:25461/live/plex/plex/826.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://149.202.74.95:25461/live/plex/plex/825.ts
+#EXTINF:-1,FOX SPORTS 2 Thailand
+http://149.202.74.95:25461/live/plex/plex/827.ts
+#EXTINF:-1,GOLF HD
+http://149.202.74.95:25461/live/plex/plex/903.ts
+#EXTINF:-1,ligTV 1
+http://149.202.74.95:25461/live/plex/plex/883.ts
+#EXTINF:-1,ligTV 2
+http://149.202.74.95:25461/live/plex/plex/884.ts
+#EXTINF:-1,ligTV 3
+http://149.202.74.95:25461/live/plex/plex/885.ts
+#EXTINF:-1,ligTV 4
+http://149.202.74.95:25461/live/plex/plex/886.ts
+#EXTINF:-1,MIO STADIUM 102
+http://149.202.74.95:25461/live/plex/plex/819.ts
+#EXTINF:-1,MIO STADIUM 102 FHD
+http://149.202.74.95:25461/live/plex/plex/953.ts
+#EXTINF:-1,MIO STADIUM 103
+http://149.202.74.95:25461/live/plex/plex/820.ts
+#EXTINF:-1,MIO STADIUM 104
+http://149.202.74.95:25461/live/plex/plex/821.ts
+#EXTINF:-1,MIO STADIUM 105
+http://149.202.74.95:25461/live/plex/plex/822.ts
+#EXTINF:-1,MIO STADIUM 106
+http://149.202.74.95:25461/live/plex/plex/823.ts
+#EXTINF:-1,MIO STADIUM 107
+http://149.202.74.95:25461/live/plex/plex/1007.ts
+#EXTINF:-1,MIO STADIUM ELEVEN
+http://149.202.74.95:25461/live/plex/plex/1008.ts
+#EXTINF:-1,MIO ELEVEN SPORTS (E plus)
+http://149.202.74.95:25461/live/plex/plex/818.ts
+#EXTINF:-1,VIP: MIO Stadium 102 HD
+http://149.202.74.95:25461/live/plex/plex/1151.ts
+#EXTINF:-1,VIP: MIO Stadium 103 HD
+http://149.202.74.95:25461/live/plex/plex/1152.ts
+#EXTINF:-1,VIP: MIO Stadium 104 HD
+http://149.202.74.95:25461/live/plex/plex/1153.ts
+#EXTINF:-1,VIP: MIO Stadium 105 HD
+http://149.202.74.95:25461/live/plex/plex/1154.ts
+#EXTINF:-1,VIP: MIO Stadium 106 HD
+http://149.202.74.95:25461/live/plex/plex/1155.ts
+#EXTINF:-1,VIP: MIO Stadium 107 HD
+http://149.202.74.95:25461/live/plex/plex/1156.ts
+#EXTINF:-1,VIP: MIO Stadium 108 HD
+http://149.202.74.95:25461/live/plex/plex/1157.ts
+#EXTINF:-1,Moto GP: Live 1
+http://149.202.74.95:25461/live/plex/plex/1145.ts
+#EXTINF:-1,Moto GP: Live 2
+http://149.202.74.95:25461/live/plex/plex/1146.ts
+#EXTINF:-1,Moto GP: Live 3
+http://149.202.74.95:25461/live/plex/plex/1147.ts
+#EXTINF:-1,NBA TV
+http://149.202.74.95:25461/live/plex/plex/861.ts
+#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/811.ts
+#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/812.ts
+#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/813.ts
+#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/814.ts
+#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/815.ts
+#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/816.ts
+#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://149.202.74.95:25461/live/plex/plex/817.ts
+#EXTINF:-1,NFL Network
+http://149.202.74.95:25461/live/plex/plex/955.ts
+#EXTINF:-1,NFL Red Zone
+http://149.202.74.95:25461/live/plex/plex/1017.ts
+#EXTINF:-1,NHL NETWORK
+http://149.202.74.95:25461/live/plex/plex/860.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD
+http://149.202.74.95:25461/live/plex/plex/830.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD
+http://149.202.74.95:25461/live/plex/plex/831.ts
+#EXTINF:-1,NL FOX SPORTS 3 HD
+http://149.202.74.95:25461/live/plex/plex/832.ts
+#EXTINF:-1,NL FOX SPORTS 4 HD
+http://149.202.74.95:25461/live/plex/plex/833.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD
+http://149.202.74.95:25461/live/plex/plex/834.ts
+#EXTINF:-1,SKYNET Sports 1
+http://149.202.74.95:25461/live/plex/plex/1341.ts
+#EXTINF:-1,SKYNET Sports 2
+http://149.202.74.95:25461/live/plex/plex/1342.ts
+#EXTINF:-1,SKYNET Sports 3
+http://149.202.74.95:25461/live/plex/plex/1343.ts
+#EXTINF:-1,SKYNET Sports 4
+http://149.202.74.95:25461/live/plex/plex/1344.ts
+#EXTINF:-1,SKYNET Sports 5
+http://149.202.74.95:25461/live/plex/plex/1345.ts
+#EXTINF:-1,SKYNET Sports 6
+http://149.202.74.95:25461/live/plex/plex/1346.ts
+#EXTINF:-1,SPFL: Aberdeen FC TV (Live Matches Only)
+http://149.202.74.95:25461/live/plex/plex/912.ts
+#EXTINF:-1,SPFL: Celtic FC TV (Live Matches Only)
+http://149.202.74.95:25461/live/plex/plex/798.ts
+#EXTINF:-1,SPFL: Hearts FC TV (Live Matches Only)
+http://149.202.74.95:25461/live/plex/plex/1164.ts
+#EXTINF:-1,SPFL: Hibs FC TV (Live Matches Only)
+http://149.202.74.95:25461/live/plex/plex/1165.ts
+#EXTINF:-1,SPFL: Rangers FC TV (Live Matches Only)
+http://149.202.74.95:25461/live/plex/plex/799.ts
+#EXTINF:-1,SportKlub 1
+http://149.202.74.95:25461/live/plex/plex/897.ts
+#EXTINF:-1,SportKlub 2
+http://149.202.74.95:25461/live/plex/plex/898.ts
+#EXTINF:-1,SportKlub 3
+http://149.202.74.95:25461/live/plex/plex/899.ts
+#EXTINF:-1,SPORTSNET-360HD
+http://149.202.74.95:25461/live/plex/plex/857.ts
+#EXTINF:-1,SPORTSNET-ONE HD
+http://149.202.74.95:25461/live/plex/plex/856.ts
+#EXTINF:-1,Sportsnet World
+http://149.202.74.95:25461/live/plex/plex/854.ts
+#EXTINF:-1,Sportsnet West HD
+http://149.202.74.95:25461/live/plex/plex/853.ts
+#EXTINF:-1,Star Sports 1
+http://149.202.74.95:25461/live/plex/plex/802.ts
+#EXTINF:-1,Star Sports 2
+http://149.202.74.95:25461/live/plex/plex/803.ts
+#EXTINF:-1,Star Sports 3
+http://149.202.74.95:25461/live/plex/plex/804.ts
+#EXTINF:-1,Star Sports 4
+http://149.202.74.95:25461/live/plex/plex/805.ts
+#EXTINF:-1,Ten Golf
+http://149.202.74.95:25461/live/plex/plex/902.ts
+#EXTINF:-1,TSN 1
+http://149.202.74.95:25461/live/plex/plex/868.ts
+#EXTINF:-1,TSN 2
+http://149.202.74.95:25461/live/plex/plex/867.ts
+#EXTINF:-1,TSN 3
+http://149.202.74.95:25461/live/plex/plex/866.ts
+#EXTINF:-1,TSN 4
+http://149.202.74.95:25461/live/plex/plex/865.ts
+#EXTINF:-1,TSN 5
+http://149.202.74.95:25461/live/plex/plex/864.ts
+#EXTINF:-1,VIP: TSN 1 HD
+http://149.202.74.95:25461/live/plex/plex/1347.ts
+#EXTINF:-1,VIP: TSN 2 HD
+http://149.202.74.95:25461/live/plex/plex/1348.ts
+#EXTINF:-1,VIP: TSN 3 HD
+http://149.202.74.95:25461/live/plex/plex/1349.ts
+#EXTINF:-1,VIP: TSN 4 HD
+http://149.202.74.95:25461/live/plex/plex/1350.ts
+#EXTINF:-1,VIP: TSN 5 HD
+http://149.202.74.95:25461/live/plex/plex/1351.ts
+#EXTINF:-1,UFC Fight Pass
+http://149.202.74.95:25461/live/plex/plex/800.ts
+#EXTINF:-1,Viasat Fotboll
+http://149.202.74.95:25461/live/plex/plex/889.ts
+#EXTINF:-1,Viasat Sport
+http://149.202.74.95:25461/live/plex/plex/888.ts
+#EXTINF:-1,Viasat Sport Norway
+http://149.202.74.95:25461/live/plex/plex/887.ts
+#EXTINF:-1,WWE Network HD
+http://149.202.74.95:25461/live/plex/plex/862.ts
+#EXTINF:-1,Ziggo Sport Golf
+http://149.202.74.95:25461/live/plex/plex/901.ts
+#EXTINF:-1,OSN Sports 1 HD
+http://149.202.74.95:25461/live/plex/plex/806.ts
+#EXTINF:-1,OSN sports 2
+http://149.202.74.95:25461/live/plex/plex/807.ts
+#EXTINF:-1,OSN sports 3
+http://149.202.74.95:25461/live/plex/plex/808.ts
+#EXTINF:-1,OSN sports 4
+http://149.202.74.95:25461/live/plex/plex/809.ts
+#EXTINF:-1,ITV Box Office PPV
+http://149.202.74.95:25461/live/plex/plex/1183.ts
+#EXTINF:-1,USA: A&E
+http://149.202.74.95:25461/live/plex/plex/1034.ts
+#EXTINF:-1,USA: A&E HD
+http://149.202.74.95:25461/live/plex/plex/1035.ts
+#EXTINF:-1,USA: A&E TV HD
+http://149.202.74.95:25461/live/plex/plex/1036.ts
+#EXTINF:-1,USA: ABC Family
+http://149.202.74.95:25461/live/plex/plex/1037.ts
+#EXTINF:-1,USA: ABC HD
+http://149.202.74.95:25461/live/plex/plex/1038.ts
+#EXTINF:-1,USA: AETV
+http://149.202.74.95:25461/live/plex/plex/1039.ts
+#EXTINF:-1,USA: AFN Movie
+http://149.202.74.95:25461/live/plex/plex/1040.ts
+#EXTINF:-1,USA: AFN News
+http://149.202.74.95:25461/live/plex/plex/1041.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://149.202.74.95:25461/live/plex/plex/1042.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://149.202.74.95:25461/live/plex/plex/1043.ts
+#EXTINF:-1,USA: AFN Pulse
+http://149.202.74.95:25461/live/plex/plex/1044.ts
+#EXTINF:-1,USA: AFN Spectrum
+http://149.202.74.95:25461/live/plex/plex/1045.ts
+#EXTINF:-1,USA: AFN Sports 1
+http://149.202.74.95:25461/live/plex/plex/1046.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://149.202.74.95:25461/live/plex/plex/1047.ts
+#EXTINF:-1,USA: AMC HD
+http://149.202.74.95:25461/live/plex/plex/1048.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://149.202.74.95:25461/live/plex/plex/1049.ts
+#EXTINF:-1,USA: Bounce TV
+http://149.202.74.95:25461/live/plex/plex/1141.ts
+#EXTINF:-1,USA: Bravo
+http://149.202.74.95:25461/live/plex/plex/1050.ts
+#EXTINF:-1,USA: Bravo HD
+http://149.202.74.95:25461/live/plex/plex/1051.ts
+#EXTINF:-1,USA: BTN Sport HD
+http://149.202.74.95:25461/live/plex/plex/1052.ts
+#EXTINF:-1,USA: ByuTV HD
+http://149.202.74.95:25461/live/plex/plex/1053.ts
+#EXTINF:-1,USA: Cartoon Network
+http://149.202.74.95:25461/live/plex/plex/1054.ts
+#EXTINF:-1,USA: CBS HD
+http://149.202.74.95:25461/live/plex/plex/1055.ts
+#EXTINF:-1,USA: CBS Sports
+http://149.202.74.95:25461/live/plex/plex/1056.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://149.202.74.95:25461/live/plex/plex/1057.ts
+#EXTINF:-1,USA: Cinemax East
+http://149.202.74.95:25461/live/plex/plex/1058.ts
+#EXTINF:-1,USA: CNBC
+http://149.202.74.95:25461/live/plex/plex/1059.ts
+#EXTINF:-1,USA: CNN HD
+http://149.202.74.95:25461/live/plex/plex/1060.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://149.202.74.95:25461/live/plex/plex/1061.ts
+#EXTINF:-1,USA: CW HD
+http://149.202.74.95:25461/live/plex/plex/1062.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://149.202.74.95:25461/live/plex/plex/1063.ts
+#EXTINF:-1,USA: Discovery Family HD
+http://149.202.74.95:25461/live/plex/plex/1064.ts
+#EXTINF:-1,USA: Discovery HD
+http://149.202.74.95:25461/live/plex/plex/1065.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://149.202.74.95:25461/live/plex/plex/1066.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://149.202.74.95:25461/live/plex/plex/1067.ts
+#EXTINF:-1,USA: Disney Channel
+http://149.202.74.95:25461/live/plex/plex/1068.ts
+#EXTINF:-1,USA: DIY Network HD
+http://149.202.74.95:25461/live/plex/plex/1069.ts
+#EXTINF:-1,USA: ESPN
+http://149.202.74.95:25461/live/plex/plex/1070.ts
+#EXTINF:-1,USA: ESPN 2
+http://149.202.74.95:25461/live/plex/plex/1072.ts
+#EXTINF:-1,USA: ESPN HD
+http://149.202.74.95:25461/live/plex/plex/1071.ts
+#EXTINF:-1,USA: ESPN HD 2
+http://149.202.74.95:25461/live/plex/plex/1073.ts
+#EXTINF:-1,USA: Fight Network
+http://149.202.74.95:25461/live/plex/plex/1074.ts
+#EXTINF:-1,USA: Fight Sport US
+http://149.202.74.95:25461/live/plex/plex/1148.ts
+#EXTINF:-1,USA: Fine Living Network
+http://149.202.74.95:25461/live/plex/plex/1142.ts
+#EXTINF:-1,USA: Food Network HD
+http://149.202.74.95:25461/live/plex/plex/1075.ts
+#EXTINF:-1,USA: FOXX HD
+http://149.202.74.95:25461/live/plex/plex/1076.ts
+#EXTINF:-1,USA: FreeRom HD
+http://149.202.74.95:25461/live/plex/plex/1077.ts
+#EXTINF:-1,USA: FX HD
+http://149.202.74.95:25461/live/plex/plex/1078.ts
+#EXTINF:-1,USA: FXX
+http://149.202.74.95:25461/live/plex/plex/1079.ts
+#EXTINF:-1,USA: H2
+http://149.202.74.95:25461/live/plex/plex/1080.ts
+#EXTINF:-1,USA: Hallmark
+http://149.202.74.95:25461/live/plex/plex/1081.ts
+#EXTINF:-1,USA: HBO
+http://149.202.74.95:25461/live/plex/plex/1082.ts
+#EXTINF:-1,USA: HBO 2
+http://149.202.74.95:25461/live/plex/plex/1083.ts
+#EXTINF:-1,USA: HBO Comedy
+http://149.202.74.95:25461/live/plex/plex/1084.ts
+#EXTINF:-1,USA: HBO East
+http://149.202.74.95:25461/live/plex/plex/1085.ts
+#EXTINF:-1,USA: HBO Family HD
+http://149.202.74.95:25461/live/plex/plex/1086.ts
+#EXTINF:-1,USA: HBO HD
+http://149.202.74.95:25461/live/plex/plex/1087.ts
+#EXTINF:-1,USA: HBO Signature
+http://149.202.74.95:25461/live/plex/plex/1088.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://149.202.74.95:25461/live/plex/plex/1089.ts
+#EXTINF:-1,USA: HBO Zone HD
+http://149.202.74.95:25461/live/plex/plex/1033.ts
+#EXTINF:-1,USA: HGTV HD
+http://149.202.74.95:25461/live/plex/plex/1090.ts
+#EXTINF:-1,USA: HIFI
+http://149.202.74.95:25461/live/plex/plex/1091.ts
+#EXTINF:-1,USA: History
+http://149.202.74.95:25461/live/plex/plex/1092.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://149.202.74.95:25461/live/plex/plex/1093.ts
+#EXTINF:-1,USA: Life Time
+http://149.202.74.95:25461/live/plex/plex/1094.ts
+#EXTINF:-1,USA: MLB Network
+http://149.202.74.95:25461/live/plex/plex/1095.ts
+#EXTINF:-1,USA: MSNBC HD
+http://149.202.74.95:25461/live/plex/plex/1096.ts
+#EXTINF:-1,USA: MTV
+http://149.202.74.95:25461/live/plex/plex/1032.ts
+#EXTINF:-1,USA: Nat Geo HD
+http://149.202.74.95:25461/live/plex/plex/1097.ts
+#EXTINF:-1,USA: National Geographic
+http://149.202.74.95:25461/live/plex/plex/1098.ts
+#EXTINF:-1,USA: NBA TV
+http://149.202.74.95:25461/live/plex/plex/1099.ts
+#EXTINF:-1,USA: NBC Golf
+http://149.202.74.95:25461/live/plex/plex/1100.ts
+#EXTINF:-1,USA: NBC Sport
+http://149.202.74.95:25461/live/plex/plex/1101.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://149.202.74.95:25461/live/plex/plex/1150.ts
+#EXTINF:-1,USA: NFL Network HD
+http://149.202.74.95:25461/live/plex/plex/1102.ts
+#EXTINF:-1,USA: NFL Now HD
+http://149.202.74.95:25461/live/plex/plex/1103.ts
+#EXTINF:-1,USA: NHL Network
+http://149.202.74.95:25461/live/plex/plex/1104.ts
+#EXTINF:-1,USA: Nick
+http://149.202.74.95:25461/live/plex/plex/1105.ts
+#EXTINF:-1,USA: Nickelodeon HD
+http://149.202.74.95:25461/live/plex/plex/1106.ts
+#EXTINF:-1,USA: OWN HD
+http://149.202.74.95:25461/live/plex/plex/1107.ts
+#EXTINF:-1,USA: PBS America
+http://149.202.74.95:25461/live/plex/plex/1108.ts
+#EXTINF:-1,USA: PIX 11
+http://149.202.74.95:25461/live/plex/plex/1109.ts
+#EXTINF:-1,USA: Poker Central
+http://149.202.74.95:25461/live/plex/plex/1110.ts
+#EXTINF:-1,USA: Showtime
+http://149.202.74.95:25461/live/plex/plex/1111.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://149.202.74.95:25461/live/plex/plex/1112.ts
+#EXTINF:-1,USA: Showtime Extreme
+http://149.202.74.95:25461/live/plex/plex/1113.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://149.202.74.95:25461/live/plex/plex/1114.ts
+#EXTINF:-1,USA: Showtime West
+http://149.202.74.95:25461/live/plex/plex/1115.ts
+#EXTINF:-1,USA: Spike HD
+http://149.202.74.95:25461/live/plex/plex/1116.ts
+#EXTINF:-1,USA: Starz Cinema
+http://149.202.74.95:25461/live/plex/plex/1117.ts
+#EXTINF:-1,USA: Starz Comedy
+http://149.202.74.95:25461/live/plex/plex/1118.ts
+#EXTINF:-1,USA: Starz East
+http://149.202.74.95:25461/live/plex/plex/1119.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://149.202.74.95:25461/live/plex/plex/1120.ts
+#EXTINF:-1,USA: Starz Encore
+http://149.202.74.95:25461/live/plex/plex/1121.ts
+#EXTINF:-1,USA: SYFY HD
+http://149.202.74.95:25461/live/plex/plex/1122.ts
+#EXTINF:-1,USA: TBS HD
+http://149.202.74.95:25461/live/plex/plex/1123.ts
+#EXTINF:-1,USA: The Weather Channel
+http://149.202.74.95:25461/live/plex/plex/1124.ts
+#EXTINF:-1,USA: TLC HD
+http://149.202.74.95:25461/live/plex/plex/1125.ts
+#EXTINF:-1,USA: TNT
+http://149.202.74.95:25461/live/plex/plex/1126.ts
+#EXTINF:-1,USA: Tru TV
+http://149.202.74.95:25461/live/plex/plex/1127.ts
+#EXTINF:-1,USA: USA BET
+http://149.202.74.95:25461/live/plex/plex/1132.ts
+#EXTINF:-1,USA: USA Network HD
+http://149.202.74.95:25461/live/plex/plex/1128.ts
+#EXTINF:-1,USA: UTV IE
+http://149.202.74.95:25461/live/plex/plex/1133.ts
+#EXTINF:-1,USA: VH1
+http://149.202.74.95:25461/live/plex/plex/1129.ts
+#EXTINF:-1,USA: Viceland
+http://149.202.74.95:25461/live/plex/plex/1136.ts
+#EXTINF:-1,USA: WE TV
+http://149.202.74.95:25461/live/plex/plex/1131.ts
+#EXTINF:-1,USA: WWE HD
+http://149.202.74.95:25461/live/plex/plex/1130.ts
+#EXTINF:-1,IN :  LIFE OK
+http://149.202.74.95:25461/live/plex/plex/1248.ts
+#EXTINF:-1,IN :  ZEE TV
+http://149.202.74.95:25461/live/plex/plex/1247.ts
+#EXTINF:-1,IN : &TV HD
+http://149.202.74.95:25461/live/plex/plex/1246.ts
+#EXTINF:-1,IN : COLOURS SD
+http://149.202.74.95:25461/live/plex/plex/1245.ts
+#EXTINF:-1,IN : COLOURS UK HD
+http://149.202.74.95:25461/live/plex/plex/1244.ts
+#EXTINF:-1,IN : HUM TV
+http://149.202.74.95:25461/live/plex/plex/1243.ts
+#EXTINF:-1,IN : LIFE OK
+http://149.202.74.95:25461/live/plex/plex/1242.ts
+#EXTINF:-1,IN : RISHTEY
+http://149.202.74.95:25461/live/plex/plex/1241.ts
+#EXTINF:-1,IN : STAR GOLD
+http://149.202.74.95:25461/live/plex/plex/1240.ts
+#EXTINF:-1,IN : STAR JALSHA
+http://149.202.74.95:25461/live/plex/plex/1239.ts
+#EXTINF:-1,IN : STAR PLUS
+http://149.202.74.95:25461/live/plex/plex/1238.ts
+#EXTINF:-1,IN : STAR VIJAY
+http://149.202.74.95:25461/live/plex/plex/1237.ts
+#EXTINF:-1,IN : WILLOW HD
+http://149.202.74.95:25461/live/plex/plex/1236.ts
+#EXTINF:-1,IN : ZEE ACTION
+http://149.202.74.95:25461/live/plex/plex/1235.ts
+#EXTINF:-1,IN : ZEE BOLLYWOOD
+http://149.202.74.95:25461/live/plex/plex/1234.ts
+#EXTINF:-1,IN : ZEE CINEMA
+http://149.202.74.95:25461/live/plex/plex/1233.ts
+#EXTINF:-1,IN : ZEE CLASSIC
+http://149.202.74.95:25461/live/plex/plex/1232.ts
+#EXTINF:-1,IN : ZEE LIVING
+http://149.202.74.95:25461/live/plex/plex/1231.ts
+#EXTINF:-1,IN : ZEE MARATHI
+http://149.202.74.95:25461/live/plex/plex/1230.ts
+#EXTINF:-1,IN : ZEE TELUGU
+http://149.202.74.95:25461/live/plex/plex/1229.ts
+#EXTINF:-1,IN : ZEE TV
+http://149.202.74.95:25461/live/plex/plex/1228.ts
+#EXTINF:-1,IN : ZEE TV UK
+http://149.202.74.95:25461/live/plex/plex/1227.ts
+#EXTINF:-1,IN : ZING
+http://149.202.74.95:25461/live/plex/plex/1226.ts
+#EXTINF:-1,AR : BBC ARABIC
+http://149.202.74.95:25461/live/plex/plex/1330.ts
+#EXTINF:-1,AR : CBC
+http://149.202.74.95:25461/live/plex/plex/1315.ts
+#EXTINF:-1,AR : CBC 2
+http://149.202.74.95:25461/live/plex/plex/1314.ts
+#EXTINF:-1,AR : CBC DRAMA
+http://149.202.74.95:25461/live/plex/plex/1313.ts
+#EXTINF:-1,AR : CBC EXTRA
+http://149.202.74.95:25461/live/plex/plex/1312.ts
+#EXTINF:-1,AR : CBC SOFRA
+http://149.202.74.95:25461/live/plex/plex/1311.ts
+#EXTINF:-1,AR : CINEMA 1
+http://149.202.74.95:25461/live/plex/plex/1310.ts
+#EXTINF:-1,AR : CINEMA 2
+http://149.202.74.95:25461/live/plex/plex/1309.ts
+#EXTINF:-1,AR : CINEMA PRO
+http://149.202.74.95:25461/live/plex/plex/1308.ts
+#EXTINF:-1,AR : JORDAN ADDUSTOUR
+http://149.202.74.95:25461/live/plex/plex/1307.ts
+#EXTINF:-1,AR : JORDAN AL WAKEEL
+http://149.202.74.95:25461/live/plex/plex/1306.ts
+#EXTINF:-1,AR : JORDAN AMEN
+http://149.202.74.95:25461/live/plex/plex/1305.ts
+#EXTINF:-1,AR : JORDAN DERETNA
+http://149.202.74.95:25461/live/plex/plex/1304.ts
+#EXTINF:-1,AR : JORDAN JOOD
+http://149.202.74.95:25461/live/plex/plex/1303.ts
+#EXTINF:-1,AR : JORDAN MANASEER
+http://149.202.74.95:25461/live/plex/plex/1302.ts
+#EXTINF:-1,AR : JORDAN MUBASHER
+http://149.202.74.95:25461/live/plex/plex/1301.ts
+#EXTINF:-1,AR : JORDAN NOW
+http://149.202.74.95:25461/live/plex/plex/1300.ts
+#EXTINF:-1,AR : JORDAN SAMA
+http://149.202.74.95:25461/live/plex/plex/1299.ts
+#EXTINF:-1,AR : JORDAN SOOQ
+http://149.202.74.95:25461/live/plex/plex/1298.ts
+#EXTINF:-1,AR : JORDAN SPORT
+http://149.202.74.95:25461/live/plex/plex/1297.ts
+#EXTINF:-1,AR : JORDAN TV
+http://149.202.74.95:25461/live/plex/plex/1296.ts
+#EXTINF:-1,AR : MBC 1
+http://149.202.74.95:25461/live/plex/plex/1295.ts
+#EXTINF:-1,AR : MBC 1 HD
+http://149.202.74.95:25461/live/plex/plex/1294.ts
+#EXTINF:-1,AR : MBC 2
+http://149.202.74.95:25461/live/plex/plex/1293.ts
+#EXTINF:-1,AR : MBC 2 HD
+http://149.202.74.95:25461/live/plex/plex/1292.ts
+#EXTINF:-1,AR : MBC 3
+http://149.202.74.95:25461/live/plex/plex/1291.ts
+#EXTINF:-1,AR : MBC 3 HD
+http://149.202.74.95:25461/live/plex/plex/1290.ts
+#EXTINF:-1,AR : MBC 4
+http://149.202.74.95:25461/live/plex/plex/1289.ts
+#EXTINF:-1,AR : MBC 4 HD
+http://149.202.74.95:25461/live/plex/plex/1288.ts
+#EXTINF:-1,AR : MBC Action
+http://149.202.74.95:25461/live/plex/plex/1287.ts
+#EXTINF:-1,AR : MBC ACTION HD
+http://149.202.74.95:25461/live/plex/plex/1286.ts
+#EXTINF:-1,AR : MBC Bollywood
+http://149.202.74.95:25461/live/plex/plex/1285.ts
+#EXTINF:-1,AR : MBC DRAMA
+http://149.202.74.95:25461/live/plex/plex/1284.ts
+#EXTINF:-1,AR : MBC DRAMA HD
+http://149.202.74.95:25461/live/plex/plex/1283.ts
+#EXTINF:-1,AR : MBC Masr
+http://149.202.74.95:25461/live/plex/plex/1282.ts
+#EXTINF:-1,AR : MBC Masr 2
+http://149.202.74.95:25461/live/plex/plex/1281.ts
+#EXTINF:-1,AR : MBC MAX
+http://149.202.74.95:25461/live/plex/plex/1280.ts
+#EXTINF:-1,AR : MBC MAX HD
+http://149.202.74.95:25461/live/plex/plex/1279.ts
+#EXTINF:-1,AR : MBC VARIETY HD
+http://149.202.74.95:25461/live/plex/plex/1278.ts
+#EXTINF:-1,AR : PALESTINE
+http://149.202.74.95:25461/live/plex/plex/1277.ts
+#EXTINF:-1,AR : PALESTINE LIVE
+http://149.202.74.95:25461/live/plex/plex/1276.ts
+#EXTINF:-1,AR : PALESTINE TODAY
+http://149.202.74.95:25461/live/plex/plex/1275.ts
+#EXTINF:-1,AR : PANORAMA DRAMA 2
+http://149.202.74.95:25461/live/plex/plex/1274.ts
+#EXTINF:-1,AR : PANORAMA FOOD
+http://149.202.74.95:25461/live/plex/plex/1273.ts
+#EXTINF:-1,AR : PNORAMA DRAMA
+http://149.202.74.95:25461/live/plex/plex/1272.ts
+#EXTINF:-1,AR : ROTANA
+http://149.202.74.95:25461/live/plex/plex/1271.ts
+#EXTINF:-1,AR : ROTANA  AFLAM
+http://149.202.74.95:25461/live/plex/plex/1270.ts
+#EXTINF:-1,AR : ROTANA CINEMA EGY
+http://149.202.74.95:25461/live/plex/plex/1269.ts
+#EXTINF:-1,AR : ROTANA CINEMA KSA
+http://149.202.74.95:25461/live/plex/plex/1268.ts
+#EXTINF:-1,AR : ROTANA CLASSIC
+http://149.202.74.95:25461/live/plex/plex/1267.ts
+#EXTINF:-1,AR : ROTANA CLIP
+http://149.202.74.95:25461/live/plex/plex/1266.ts
+#EXTINF:-1,AR : ROTANA KHALIJIAH
+http://149.202.74.95:25461/live/plex/plex/1265.ts
+#EXTINF:-1,AR : ROTANA MASRIYA
+http://149.202.74.95:25461/live/plex/plex/1264.ts
+#EXTINF:-1,AR : SAUDI 1
+http://149.202.74.95:25461/live/plex/plex/1263.ts
+#EXTINF:-1,AR : SAUDI 2
+http://149.202.74.95:25461/live/plex/plex/1262.ts
+#EXTINF:-1,AR : SAUDI 24
+http://149.202.74.95:25461/live/plex/plex/1261.ts
+#EXTINF:-1,AR : SAUDI ANTI TERRORISM
+http://149.202.74.95:25461/live/plex/plex/1260.ts
+#EXTINF:-1,AR : SAUDI CH FOR QURAN
+http://149.202.74.95:25461/live/plex/plex/1259.ts
+#EXTINF:-1,AR : SAUDI CH FOR SUNNAH
+http://149.202.74.95:25461/live/plex/plex/1258.ts
+#EXTINF:-1,AR : SAUDI SPORT
+http://149.202.74.95:25461/live/plex/plex/1257.ts
+#EXTINF:-1,AR : SKY NEWS ARABIA
+http://149.202.74.95:25461/live/plex/plex/1256.ts
+#EXTINF:-1,AR : STAR CINEMA 1
+http://149.202.74.95:25461/live/plex/plex/1255.ts
+#EXTINF:-1,AR : STAR CINEMA 2
+http://149.202.74.95:25461/live/plex/plex/1254.ts
+#EXTINF:-1,AR : TIME CINEMA
+http://149.202.74.95:25461/live/plex/plex/1253.ts
+#EXTINF:-1,AR : TIME COMEDY
+http://149.202.74.95:25461/live/plex/plex/1252.ts
+#EXTINF:-1,AR : TIME FILM
+http://149.202.74.95:25461/live/plex/plex/1251.ts
+#EXTINF:-1,AR : TIME QURAN
+http://149.202.74.95:25461/live/plex/plex/1250.ts
+#EXTINF:-1,AR : TIME TAXI
+http://149.202.74.95:25461/live/plex/plex/1249.ts
